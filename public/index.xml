@@ -6,53 +6,53 @@
       <description>Last 10 notes on 🪴 Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Zettelkasten</title>
-    <link>https:/quartz.jzhao.xyz/Zettelkasten</link>
-    <guid>https:/quartz.jzhao.xyz/Zettelkasten</guid>
-    <description>The Zettelkasten method is a note-taking and knowledge management system that was developed by German sociologist Niklas Luhmann. The term “Zettelkasten” translates to “slip box” in English.</description>
-    <pubDate>Sat, 30 Dec 2023 12:33:08 GMT</pubDate>
-  </item><item>
-    <title>Fleeting Notes</title>
-    <link>https:/quartz.jzhao.xyz/Fleeting-Notes</link>
-    <guid>https:/quartz.jzhao.xyz/Fleeting-Notes</guid>
-    <description>In the context of the Zettelkasten method, “fleeting notes” refer to brief, temporary notes that capture initial thoughts, ideas, or observations. These notes are typically taken quickly and without much detail, serving as a way to capture fleeting thoughts before they are forgotten.</description>
-    <pubDate>Sat, 30 Dec 2023 12:31:21 GMT</pubDate>
-  </item><item>
-    <title>Vim Key Bindings</title>
-    <link>https:/quartz.jzhao.xyz/Vim-Key-Bindings</link>
-    <guid>https:/quartz.jzhao.xyz/Vim-Key-Bindings</guid>
-    <description>Vim is a highly customizable and efficient text editor that is popular among developers and power users. One of Vim’s standout features is its extensive set of keyboard shortcuts and commands, referred to as “key bindings.</description>
-    <pubDate>Sat, 30 Dec 2023 12:10:06 GMT</pubDate>
-  </item><item>
-    <title>TensorFlow Developer Certification</title>
-    <link>https:/quartz.jzhao.xyz/TensorFlow-Developer-Certification</link>
-    <guid>https:/quartz.jzhao.xyz/TensorFlow-Developer-Certification</guid>
-    <description>TensorFlow has emerged as one of the most popular and widely used open-source libraries for machine learning and deep learning. Being TensorFlow Developer Certified not only validates your expertise in using TensorFlow effectively but also enhances your professional credibility in the field.</description>
-    <pubDate>Sat, 30 Dec 2023 12:09:18 GMT</pubDate>
-  </item><item>
     <title>SpectralGPT</title>
     <link>https:/quartz.jzhao.xyz/SpectralGPT</link>
     <guid>https:/quartz.jzhao.xyz/SpectralGPT</guid>
     <description>Key takeaway § Universal remote sensing foundation model Trained on one million spectral remote sensing Sentinel-2 images 3 models (Million Parameters): Base (100M), large, (300M) huge (600M) 3D masking strategy, encoder for learning visual representation from spatial-spectral mixed tokens, decoder with multi-target reconstruction for preserving spectrally sequential characteristics Masked autoencoder (MAE) framework, masking rate 90% New benchmark dataset SegMunich, focuses on urban areas Pretrained: 700k data 12 spectral bands from fMoW-S2 200 epoch, 350k BigEarthNet Sentinel-2 100 epoch.</description>
-    <pubDate>Sat, 30 Dec 2023 12:08:28 GMT</pubDate>
-  </item><item>
-    <title>Interpreting Time Series with CCDC</title>
-    <link>https:/quartz.jzhao.xyz/Interpreting-Time-Series-with-CCDC</link>
-    <guid>https:/quartz.jzhao.xyz/Interpreting-Time-Series-with-CCDC</guid>
-    <description>GEE ability: access decades of imagery without the previous limitation of needing to download all the data to a local disk for processing Change Detection and Classification (CCDC) is a land change monitoring algorithm designed to operate on time series of satellite data.</description>
-    <pubDate>Sat, 30 Dec 2023 07:27:09 GMT</pubDate>
+    <pubDate>Sat, 30 Dec 2023 13:23:18 GMT</pubDate>
   </item><item>
     <title>5 Principles Prompt Engineering</title>
     <link>https:/quartz.jzhao.xyz/5-Principles-Prompt-Engineering</link>
     <guid>https:/quartz.jzhao.xyz/5-Principles-Prompt-Engineering</guid>
     <description>Prompt engineering has emerged as a crucial skill for getting the most out of AI tools. There are 5 core principles that can help optimize prompts to make AI models more useful, reliable, and safe.</description>
-    <pubDate>Sat, 30 Dec 2023 07:25:43 GMT</pubDate>
+    <pubDate>Sat, 30 Dec 2023 13:22:53 GMT</pubDate>
+  </item><item>
+    <title>Fleeting Notes</title>
+    <link>https:/quartz.jzhao.xyz/Fleeting-Notes</link>
+    <guid>https:/quartz.jzhao.xyz/Fleeting-Notes</guid>
+    <description>In the context of the Zettelkasten method, “fleeting notes” refer to brief, temporary notes that capture initial thoughts, ideas, or observations. These notes are typically taken quickly and without much detail, serving as a way to capture fleeting thoughts before they are forgotten.</description>
+    <pubDate>Sat, 30 Dec 2023 13:17:32 GMT</pubDate>
+  </item><item>
+    <title>Interpreting Time Series with CCDC</title>
+    <link>https:/quartz.jzhao.xyz/Interpreting-Time-Series-with-CCDC</link>
+    <guid>https:/quartz.jzhao.xyz/Interpreting-Time-Series-with-CCDC</guid>
+    <description>GEE ability: access decades of imagery without the previous limitation of needing to download all the data to a local disk for processing Change Detection and Classification (CCDC) is a land change monitoring algorithm designed to operate on time series of satellite data.</description>
+    <pubDate>Sat, 30 Dec 2023 13:02:23 GMT</pubDate>
+  </item><item>
+    <title>Zettelkasten</title>
+    <link>https:/quartz.jzhao.xyz/Zettelkasten</link>
+    <guid>https:/quartz.jzhao.xyz/Zettelkasten</guid>
+    <description>The Zettelkasten method is a note-taking and knowledge management system that was developed by German sociologist Niklas Luhmann. The term “Zettelkasten” translates to “slip box” in English.</description>
+    <pubDate>Sat, 30 Dec 2023 12:57:06 GMT</pubDate>
+  </item><item>
+    <title>Vim Key Bindings</title>
+    <link>https:/quartz.jzhao.xyz/Vim-Key-Bindings</link>
+    <guid>https:/quartz.jzhao.xyz/Vim-Key-Bindings</guid>
+    <description>Vim is a highly customizable and efficient text editor that is popular among developers and power users. One of Vim’s standout features is its extensive set of keyboard shortcuts and commands, referred to as “key bindings.</description>
+    <pubDate>Sat, 30 Dec 2023 12:10:21 GMT</pubDate>
+  </item><item>
+    <title>TensorFlow Developer Certification</title>
+    <link>https:/quartz.jzhao.xyz/TensorFlow-Developer-Certification</link>
+    <guid>https:/quartz.jzhao.xyz/TensorFlow-Developer-Certification</guid>
+    <description>TensorFlow has emerged as one of the most popular and widely used open-source libraries for machine learning and deep learning. Being TensorFlow Developer Certified not only validates your expertise in using TensorFlow effectively but also enhances your professional credibility in the field.</description>
+    <pubDate>Sat, 30 Dec 2023 12:09:35 GMT</pubDate>
   </item><item>
     <title>Welcome</title>
     <link>https:/quartz.jzhao.xyz/</link>
     <guid>https:/quartz.jzhao.xyz/</guid>
     <description>Hi, I’m Azka 👋🏼 § This is my digital garden built using Quartz. Experience Data Scientist at Koltiva | Jan 2023 - Now Published a paper as first author and presenter: “Self-Supervised ResNet Land Cover Classification” on International Workshop on Artificial Intelligence and Image Processing (IWAIIP) 2023 Native Optical Character Regognition on Android Device Deforestation Detection Chatbot Project Advisor (Machine Learning) at Google Bangkit Academy | Jun 2023 and Dec 2023 Guide 6 capstone project teams to deploy their machine learning project Data Scientist Intern at Telkom | Jun 2021-Aug 2022 Speaker Diarization: voice activity detection, voice recognition, audio clustering .</description>
-    <pubDate>Sat, 30 Dec 2023 07:23:43 GMT</pubDate>
+    <pubDate>Sat, 30 Dec 2023 11:55:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
