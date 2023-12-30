@@ -1,6 +1,7 @@
 ---
 title: SpectralGPT
 ---
+
 # Key takeaway
 
 - Universal remote sensing foundation model

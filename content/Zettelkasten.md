@@ -1,5 +1,6 @@
 ---
 title: Zettelkasten
+draft: true
 ---
 
 The Zettelkasten method is a note-taking and knowledge management system that was developed by German sociologist Niklas Luhmann. The term "Zettelkasten" translates to "slip box" in English. 

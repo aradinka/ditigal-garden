@@ -6,17 +6,23 @@
       <description>Last 10 notes on 🪴 Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Natural and Anthropogenic Land Cover Change</title>
-    <link>https:/quartz.jzhao.xyz/Natural-and-Anthropogenic-Land-Cover-Change</link>
-    <guid>https:/quartz.jzhao.xyz/Natural-and-Anthropogenic-Land-Cover-Change</guid>
-    <description> Definition: Land cover change refers to the transformation of the physical and biological cover of the earth’s surface. Natural Causes: Climate Change: Alterations in temperature and precipitation patterns can transform landscapes, such as turning forests into grasslands.</description>
-    <pubDate>Sat, 30 Dec 2023 15:03:32 GMT</pubDate>
-  </item><item>
     <title>Impact of Land Cover on Environmental Processes</title>
     <link>https:/quartz.jzhao.xyz/Impact-of-Land-Cover-on-Environmental-Processes</link>
     <guid>https:/quartz.jzhao.xyz/Impact-of-Land-Cover-on-Environmental-Processes</guid>
     <description>Land cover influence the energy balance, carbon budget, and. hydrological cycle as many different physical characteristics change as a function of land cover, such as albedo, emissivity, roughness, photosynthetic capacity and transpiration.</description>
-    <pubDate>Sat, 30 Dec 2023 15:00:51 GMT</pubDate>
+    <pubDate>Sat, 30 Dec 2023 15:07:56 GMT</pubDate>
+  </item><item>
+    <title>Continuous Change Detection and Classification</title>
+    <link>https:/quartz.jzhao.xyz/Continuous-Change-Detection-and-Classification</link>
+    <guid>https:/quartz.jzhao.xyz/Continuous-Change-Detection-and-Classification</guid>
+    <description>It’s an algorithm used in remote sensing area for land cover analysis. The original methods published form paper titled “Continuous change detection and classification of land cover using all available Landsat data”, published in 11 February 2014.</description>
+    <pubDate>Sat, 30 Dec 2023 15:07:49 GMT</pubDate>
+  </item><item>
+    <title>Natural and Anthropogenic Land Cover Change</title>
+    <link>https:/quartz.jzhao.xyz/Natural-and-Anthropogenic-Land-Cover-Change</link>
+    <guid>https:/quartz.jzhao.xyz/Natural-and-Anthropogenic-Land-Cover-Change</guid>
+    <description> Definition: Land cover change refers to the transformation of the physical and biological cover of the earth’s surface. Natural Causes: Climate Change: Alterations in temperature and precipitation patterns can transform landscapes, such as turning forests into grasslands.</description>
+    <pubDate>Sat, 30 Dec 2023 15:04:58 GMT</pubDate>
   </item><item>
     <title>Landsat</title>
     <link>https:/quartz.jzhao.xyz/Landsat</link>
@@ -29,6 +35,12 @@
     <guid>https:/quartz.jzhao.xyz/land-cover-change</guid>
     <description></description>
     <pubDate>Sat, 30 Dec 2023 14:44:25 GMT</pubDate>
+  </item><item>
+    <title>{{title}}</title>
+    <link>https:/quartz.jzhao.xyz/templates/note-templates</link>
+    <guid>https:/quartz.jzhao.xyz/templates/note-templates</guid>
+    <description></description>
+    <pubDate>Sat, 30 Dec 2023 13:33:51 GMT</pubDate>
   </item><item>
     <title>Google Earth Engine</title>
     <link>https:/quartz.jzhao.xyz/Google-Earth-Engine</link>
@@ -53,18 +65,6 @@
     <guid>https:/quartz.jzhao.xyz/Fleeting-Notes</guid>
     <description>In the context of the Zettelkasten method, “fleeting notes” refer to brief, temporary notes that capture initial thoughts, ideas, or observations. These notes are typically taken quickly and without much detail, serving as a way to capture fleeting thoughts before they are forgotten.</description>
     <pubDate>Sat, 30 Dec 2023 13:17:32 GMT</pubDate>
-  </item><item>
-    <title>Interpreting Time Series with CCDC</title>
-    <link>https:/quartz.jzhao.xyz/Interpreting-Time-Series-with-CCDC</link>
-    <guid>https:/quartz.jzhao.xyz/Interpreting-Time-Series-with-CCDC</guid>
-    <description>GEE ability: access decades of imagery without the previous limitation of needing to download all the data to a local disk for processing Change Detection and Classification (CCDC) is a land change monitoring algorithm designed to operate on time series of satellite data.</description>
-    <pubDate>Sat, 30 Dec 2023 13:02:23 GMT</pubDate>
-  </item><item>
-    <title>Zettelkasten</title>
-    <link>https:/quartz.jzhao.xyz/Zettelkasten</link>
-    <guid>https:/quartz.jzhao.xyz/Zettelkasten</guid>
-    <description>The Zettelkasten method is a note-taking and knowledge management system that was developed by German sociologist Niklas Luhmann. The term “Zettelkasten” translates to “slip box” in English.</description>
-    <pubDate>Sat, 30 Dec 2023 12:57:06 GMT</pubDate>
   </item>
     </channel>
   </rss>

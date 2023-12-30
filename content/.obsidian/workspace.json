@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuous Change Detection and Classification.md",
+                "file": "Zettelkasten.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "f586c3ba9f6aceff",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continuous Change Detection and Classification.md",
+                "file": "Zettelkasten.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Continuous Change Detection and Classification.md",
+                "file": "Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Continuous Change Detection and Classification.md"
+                "file": "Zettelkasten.md"
               }
             }
           }
@@ -149,23 +148,23 @@
   },
   "active": "3541f0e297c3bf12",
   "lastOpenFiles": [
-    "Continuous Change Detection and Classification.md",
-    "Continuous Change Detection and Classification.md",
-    "Natural and Anthropogenic Land Cover Change.md",
-    "Impact of Land Cover on Environmental Processes.md",
-    "Landsat.md",
-    "land cover change.md",
-    "Interpreting Time Series with CCDC.md",
-    "masi.md",
-    "test.md",
-    "templates/note templates.md",
-    "Fleeting Notes.md",
-    "Google Earth Engine.md",
-    "5 Principles Prompt Engineering.md",
-    "index.md",
+    "Vim Key Bindings.md",
+    "Zettelkasten.md",
     "TensorFlow Developer Certification.md",
     "SpectralGPT.md",
-    "Zettelkasten.md",
+    "Natural and Anthropogenic Land Cover Change.md",
+    "Landsat.md",
+    "Interpreting Time Series with CCDC.md",
+    "index.md",
+    "Impact of Land Cover on Environmental Processes.md",
+    "Google Earth Engine.md",
+    "Fleeting Notes.md",
+    "Continuous Change Detection and Classification.md",
+    "5 Principles Prompt Engineering.md",
+    "templates/note templates.md",
+    "land cover change.md",
+    "masi.md",
+    "test.md",
     "Notes",
     "literature notes",
     "permanent notes",
@@ -175,7 +174,6 @@
     "templates",
     "Literature Notes",
     "Fleeting Notes",
-    "Vim Key Bindings.md",
     "attachment",
     "Eksplorasi NLP/To Do.md",
     "Eksplorasi NLP/Neural Machine Translation.md",
