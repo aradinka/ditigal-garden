@@ -26,6 +26,9 @@ Keywords: CCDC, Classification, Change detection, Time series, Land cover, Conti
 - [[Impact of Land Cover on Environmental Processes]]
 - [[Natural and Anthropogenic Land Cover Change]]
 
+Previous research:
+- Clouds could reduce the amount of usable data. It's hard to find an ideal pair of [[Landsat]] images that are free of clouds, cloud shadows and snow.
+- Several change detection algorithm over shorter time intervals
 
 # Questions
 

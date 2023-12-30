@@ -6,6 +6,18 @@
       <description>Last 10 notes on 🪴 Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Welcome</title>
+    <link>https:/quartz.jzhao.xyz/</link>
+    <guid>https:/quartz.jzhao.xyz/</guid>
+    <description>Hi, I’m Azka 👋🏼 § This is my digital garden built using Quartz. Currently reading Continuous Change Detection and Classification paper.</description>
+    <pubDate>Sat, 30 Dec 2023 15:12:50 GMT</pubDate>
+  </item><item>
+    <title>Continuous Change Detection and Classification</title>
+    <link>https:/quartz.jzhao.xyz/Continuous-Change-Detection-and-Classification</link>
+    <guid>https:/quartz.jzhao.xyz/Continuous-Change-Detection-and-Classification</guid>
+    <description>It’s an algorithm used in remote sensing area for land cover analysis. The original methods published form paper titled “Continuous change detection and classification of land cover using all available Landsat data”, published in 11 February 2014.</description>
+    <pubDate>Sat, 30 Dec 2023 15:11:48 GMT</pubDate>
+  </item><item>
     <title>SpectralGPT</title>
     <link>https:/quartz.jzhao.xyz/SpectralGPT</link>
     <guid>https:/quartz.jzhao.xyz/SpectralGPT</guid>
@@ -17,12 +29,6 @@
     <guid>https:/quartz.jzhao.xyz/Impact-of-Land-Cover-on-Environmental-Processes</guid>
     <description>Land cover influence the energy balance, carbon budget, and. hydrological cycle as many different physical characteristics change as a function of land cover, such as albedo, emissivity, roughness, photosynthetic capacity and transpiration.</description>
     <pubDate>Sat, 30 Dec 2023 15:07:56 GMT</pubDate>
-  </item><item>
-    <title>Continuous Change Detection and Classification</title>
-    <link>https:/quartz.jzhao.xyz/Continuous-Change-Detection-and-Classification</link>
-    <guid>https:/quartz.jzhao.xyz/Continuous-Change-Detection-and-Classification</guid>
-    <description>It’s an algorithm used in remote sensing area for land cover analysis. The original methods published form paper titled “Continuous change detection and classification of land cover using all available Landsat data”, published in 11 February 2014.</description>
-    <pubDate>Sat, 30 Dec 2023 15:07:49 GMT</pubDate>
   </item><item>
     <title>Natural and Anthropogenic Land Cover Change</title>
     <link>https:/quartz.jzhao.xyz/Natural-and-Anthropogenic-Land-Cover-Change</link>
@@ -41,12 +47,6 @@
     <guid>https:/quartz.jzhao.xyz/Vim-Key-Bindings</guid>
     <description>Vim is a highly customizable and efficient text editor that is popular among developers and power users. One of Vim’s standout features is its extensive set of keyboard shortcuts and commands, referred to as “key bindings.</description>
     <pubDate>Sat, 30 Dec 2023 12:10:21 GMT</pubDate>
-  </item><item>
-    <title>Welcome</title>
-    <link>https:/quartz.jzhao.xyz/</link>
-    <guid>https:/quartz.jzhao.xyz/</guid>
-    <description>Hi, I’m Azka 👋🏼 § This is my digital garden built using Quartz. Currently reading Continuous Change Detection and Classification paper. Experience Data Scientist at Koltiva | Jan 2023 - Now Published a paper as first author and presenter: “Self-Supervised ResNet Land Cover Classification” on International Workshop on Artificial Intelligence and Image Processing (IWAIIP) 2023 Native Optical Character Regognition on Android Device Deforestation Detection Chatbot Project Advisor (Machine Learning) at Google Bangkit Academy | Jun 2023 and Dec 2023 Guide 6 capstone project teams to deploy their machine learning project Data Scientist Intern at Telkom | Jun 2021-Aug 2022 Speaker Diarization: voice activity detection, voice recognition, audio clustering .</description>
-    <pubDate>Sat, 30 Dec 2023 11:55:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
