@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Google Earth Engine.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fe860b948266832f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Google Earth Engine.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Google Earth Engine.md",
+                "file": "test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Google Earth Engine.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Google Earth Engine.md"
+                "file": "test.md"
               }
             }
           }
@@ -172,11 +160,11 @@
   },
   "active": "3811444d924e1746",
   "lastOpenFiles": [
+    "Notes/Google Earth Engine.md",
+    "test.md",
     "5 Principles Prompt Engineering.md",
     "index.md",
-    "Notes/Google Earth Engine.md",
     "Fleeting Notes.md",
-    "test.md",
     "TensorFlow Developer Certification.md",
     "SpectralGPT.md",
     "Zettelkasten.md",
