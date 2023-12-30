@@ -6,6 +6,36 @@
       <description>Last 10 notes on 🪴 Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Natural and Anthropogenic Land Cover Change</title>
+    <link>https:/quartz.jzhao.xyz/Natural-and-Anthropogenic-Land-Cover-Change</link>
+    <guid>https:/quartz.jzhao.xyz/Natural-and-Anthropogenic-Land-Cover-Change</guid>
+    <description> Definition: Land cover change refers to the transformation of the physical and biological cover of the earth’s surface. Natural Causes: Climate Change: Alterations in temperature and precipitation patterns can transform landscapes, such as turning forests into grasslands.</description>
+    <pubDate>Sat, 30 Dec 2023 15:03:32 GMT</pubDate>
+  </item><item>
+    <title>Impact of Land Cover on Environmental Processes</title>
+    <link>https:/quartz.jzhao.xyz/Impact-of-Land-Cover-on-Environmental-Processes</link>
+    <guid>https:/quartz.jzhao.xyz/Impact-of-Land-Cover-on-Environmental-Processes</guid>
+    <description>Land cover influence the energy balance, carbon budget, and. hydrological cycle as many different physical characteristics change as a function of land cover, such as albedo, emissivity, roughness, photosynthetic capacity and transpiration.</description>
+    <pubDate>Sat, 30 Dec 2023 15:00:51 GMT</pubDate>
+  </item><item>
+    <title>Landsat</title>
+    <link>https:/quartz.jzhao.xyz/Landsat</link>
+    <guid>https:/quartz.jzhao.xyz/Landsat</guid>
+    <description></description>
+    <pubDate>Sat, 30 Dec 2023 14:44:31 GMT</pubDate>
+  </item><item>
+    <title>land cover change</title>
+    <link>https:/quartz.jzhao.xyz/land-cover-change</link>
+    <guid>https:/quartz.jzhao.xyz/land-cover-change</guid>
+    <description></description>
+    <pubDate>Sat, 30 Dec 2023 14:44:25 GMT</pubDate>
+  </item><item>
+    <title>Google Earth Engine</title>
+    <link>https:/quartz.jzhao.xyz/Google-Earth-Engine</link>
+    <guid>https:/quartz.jzhao.xyz/Google-Earth-Engine</guid>
+    <description>Hi Tutorials § Interpreting Time Series with CCDC.</description>
+    <pubDate>Sat, 30 Dec 2023 13:29:57 GMT</pubDate>
+  </item><item>
     <title>SpectralGPT</title>
     <link>https:/quartz.jzhao.xyz/SpectralGPT</link>
     <guid>https:/quartz.jzhao.xyz/SpectralGPT</guid>
@@ -35,24 +65,6 @@
     <guid>https:/quartz.jzhao.xyz/Zettelkasten</guid>
     <description>The Zettelkasten method is a note-taking and knowledge management system that was developed by German sociologist Niklas Luhmann. The term “Zettelkasten” translates to “slip box” in English.</description>
     <pubDate>Sat, 30 Dec 2023 12:57:06 GMT</pubDate>
-  </item><item>
-    <title>Vim Key Bindings</title>
-    <link>https:/quartz.jzhao.xyz/Vim-Key-Bindings</link>
-    <guid>https:/quartz.jzhao.xyz/Vim-Key-Bindings</guid>
-    <description>Vim is a highly customizable and efficient text editor that is popular among developers and power users. One of Vim’s standout features is its extensive set of keyboard shortcuts and commands, referred to as “key bindings.</description>
-    <pubDate>Sat, 30 Dec 2023 12:10:21 GMT</pubDate>
-  </item><item>
-    <title>TensorFlow Developer Certification</title>
-    <link>https:/quartz.jzhao.xyz/TensorFlow-Developer-Certification</link>
-    <guid>https:/quartz.jzhao.xyz/TensorFlow-Developer-Certification</guid>
-    <description>TensorFlow has emerged as one of the most popular and widely used open-source libraries for machine learning and deep learning. Being TensorFlow Developer Certified not only validates your expertise in using TensorFlow effectively but also enhances your professional credibility in the field.</description>
-    <pubDate>Sat, 30 Dec 2023 12:09:35 GMT</pubDate>
-  </item><item>
-    <title>Welcome</title>
-    <link>https:/quartz.jzhao.xyz/</link>
-    <guid>https:/quartz.jzhao.xyz/</guid>
-    <description>Hi, I’m Azka 👋🏼 § This is my digital garden built using Quartz. Experience Data Scientist at Koltiva | Jan 2023 - Now Published a paper as first author and presenter: “Self-Supervised ResNet Land Cover Classification” on International Workshop on Artificial Intelligence and Image Processing (IWAIIP) 2023 Native Optical Character Regognition on Android Device Deforestation Detection Chatbot Project Advisor (Machine Learning) at Google Bangkit Academy | Jun 2023 and Dec 2023 Guide 6 capstone project teams to deploy their machine learning project Data Scientist Intern at Telkom | Jun 2021-Aug 2022 Speaker Diarization: voice activity detection, voice recognition, audio clustering .</description>
-    <pubDate>Sat, 30 Dec 2023 11:55:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
