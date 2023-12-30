@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bea5eb9839e651cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Interpreting Time Series with CCDC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Interpreting Time Series with CCDC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Interpreting Time Series with CCDC.md"
               }
             }
           }
@@ -158,22 +145,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3811444d924e1746",
+  "active": "fd1d707b129626af",
   "lastOpenFiles": [
-    "Notes/Google Earth Engine.md",
+    "templates/note templates.md",
+    "masi.md",
+    "Interpreting Time Series with CCDC.md",
+    "Fleeting Notes.md",
     "test.md",
+    "Notes/Google Earth Engine.md",
     "5 Principles Prompt Engineering.md",
     "index.md",
-    "Fleeting Notes.md",
     "TensorFlow Developer Certification.md",
     "SpectralGPT.md",
     "Zettelkasten.md",
     "Notes",
-    "Interpreting Time Series with CCDC.md",
     "literature notes",
     "permanent notes",
     "fleeting notes",
-    "templates/note templates.md",
     "testtt.md",
     "Hi.md",
     "templates",
@@ -199,7 +187,6 @@
     "Eksplorasi NLP/Etc/Table Preliminary explorations on IWSLT’14 English→German translation.png",
     "Eksplorasi NLP/Etc/Table Document level translation.png",
     "Eksplorasi NLP/Sentence Embedding",
-    "Eksplorasi NLP/Indonesian Pre Trained Model",
-    "Eksplorasi NLP/2021-11-11.md"
+    "Eksplorasi NLP/Indonesian Pre Trained Model"
   ]
 }
