@@ -5,6 +5,8 @@ title: Welcome
 
 This is my digital garden built using [Quartz](https://github.com/jackyzha0/quartz).
 
+Currently reading [[Continuous Change Detection and Classification]] paper.
+
 > [!summaries] Experience
 > Data Scientist at [Koltiva](https://www.koltiva.com) | Jan 2023 - Now
 > - Published a paper as first author and presenter: "Self-Supervised ResNet Land Cover Classification" on International Workshop on Artificial Intelligence and Image Processing ([IWAIIP](https://iwaiip.umy.ac.id/2023/publication/)) 2023
