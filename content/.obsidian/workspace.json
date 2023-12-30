@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "notes/Google Earth Engine.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "notes/Google Earth Engine.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "notes/Google Earth Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten.md"
+                "file": "notes/Google Earth Engine.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "bea5eb9839e651cb",
   "lastOpenFiles": [
+    "Zettelkasten.md",
     "notes/Google Earth Engine.md",
     "SpectralGPT.md",
     "notes",
@@ -167,7 +168,6 @@
     "Interpreting Time Series with CCDC.md",
     "index.md",
     "Fleeting Notes.md",
-    "Zettelkasten.md",
     "literature notes",
     "permanent notes",
     "fleeting notes",
