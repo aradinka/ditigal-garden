@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Google Earth Engine.md",
+                "file": "Google Earth Engine.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe860b948266832f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Earth Engine.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Google Earth Engine.md",
+                "file": "Google Earth Engine.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Google Earth Engine.md",
+                "file": "Google Earth Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Google Earth Engine.md"
+                "file": "Google Earth Engine.md"
               }
             }
           }
@@ -158,20 +170,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3811444d924e1746",
+  "active": "fe860b948266832f",
   "lastOpenFiles": [
-    "Zettelkasten.md",
-    "Notes/Google Earth Engine.md",
-    "SpectralGPT.md",
-    "Notes",
     "5 Principles Prompt Engineering.md",
-    "Interpreting Time Series with CCDC.md",
     "index.md",
+    "Google Earth Engine.md",
     "Fleeting Notes.md",
+    "test.md",
+    "TensorFlow Developer Certification.md",
+    "SpectralGPT.md",
+    "Zettelkasten.md",
+    "Notes",
+    "Interpreting Time Series with CCDC.md",
     "literature notes",
     "permanent notes",
     "fleeting notes",
-    "TensorFlow Developer Certification.md",
     "templates/note templates.md",
     "testtt.md",
     "Hi.md",
