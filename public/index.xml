@@ -6,17 +6,23 @@
       <description>Last 10 notes on 🪴 Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Test</title>
-    <link>https:/quartz.jzhao.xyz/Test/Testnote</link>
-    <guid>https:/quartz.jzhao.xyz/Test/Testnote</guid>
-    <description></description>
-    <pubDate>Sat, 30 Dec 2023 07:13:00 GMT</pubDate>
+    <title>Prompt Engineering</title>
+    <link>https:/quartz.jzhao.xyz/prompt-engineering</link>
+    <guid>https:/quartz.jzhao.xyz/prompt-engineering</guid>
+    <description>Prompt engineering has emerged as a crucial skill for getting the most out of AI tools. There are 5 core principles that can help optimize prompts to make AI models more useful, reliable, and safe.</description>
+    <pubDate>Sat, 30 Dec 2023 07:25:17 GMT</pubDate>
   </item><item>
     <title>Welcome</title>
     <link>https:/quartz.jzhao.xyz/</link>
     <guid>https:/quartz.jzhao.xyz/</guid>
-    <description>My digital garden built using Quartz.</description>
-    <pubDate>Sat, 30 Dec 2023 06:13:16 GMT</pubDate>
+    <description>Hi, I’m Azka Radinka. I’m a Data Scientist at Koltiva. This is my digital garden built using Quartz.</description>
+    <pubDate>Sat, 30 Dec 2023 07:14:00 GMT</pubDate>
+  </item><item>
+    <title>Test</title>
+    <link>https:/quartz.jzhao.xyz/Test/Testnote</link>
+    <guid>https:/quartz.jzhao.xyz/Test/Testnote</guid>
+    <description>Mamamama.</description>
+    <pubDate>Sat, 30 Dec 2023 07:13:46 GMT</pubDate>
   </item>
     </channel>
   </rss>
