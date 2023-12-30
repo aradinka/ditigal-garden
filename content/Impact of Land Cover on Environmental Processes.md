@@ -1,9 +1,7 @@
 ---
 title: Impact of Land Cover on Environmental Processes
 ---
-Land cover influence the energy balance, carbon budget, and. hydrological cycle as many different physical characteristics change as a function of land cover, such as albedo, emissivity, roughness, photosynthetic capacity and transpiration.]
-
-**Key Concepts:**
+Land cover influence the energy balance, carbon budget, and. hydrological cycle as many different physical characteristics change as a function of land cover, such as albedo, emissivity, roughness, photosynthetic capacity and transpiration.
 
 - **Land Cover Types**: Includes forests, grasslands, urban areas, etc.
 - **Influence on Environmental Processes**: Specifically affects energy balance, carbon budget, and hydrological cycle.
