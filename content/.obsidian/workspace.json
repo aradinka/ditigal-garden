@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0f8e6160b4e3ce9e",
+        "id": "70ea3a58dc1d01e4",
         "type": "tabs",
         "children": [
           {
-            "id": "fe34b99d3f6f6fbf",
+            "id": "fd1d707b129626af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Interpreting Time Series with CCDC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3698c9e03816ab5e",
+            "id": "bea5eb9839e651cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt-engineering.md",
+                "file": "Zettelkasten.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "right": {
     "id": "f586c3ba9f6aceff",
@@ -98,8 +98,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prompt-engineering.md",
-                "collapseAll": false,
+                "file": "Zettelkasten.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prompt-engineering.md",
+                "file": "Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt-engineering.md"
+                "file": "Zettelkasten.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,11 +158,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3698c9e03816ab5e",
+  "active": "bea5eb9839e651cb",
   "lastOpenFiles": [
+    "notes/Google Earth Engine.md",
+    "SpectralGPT.md",
+    "notes",
+    "5 Principles Prompt Engineering.md",
+    "Interpreting Time Series with CCDC.md",
     "index.md",
-    "prompt-engineering.md",
-    "Test/Testnote.md",
-    "Test"
+    "Fleeting Notes.md",
+    "Zettelkasten.md",
+    "literature notes",
+    "permanent notes",
+    "fleeting notes",
+    "TensorFlow Developer Certification.md",
+    "templates/note templates.md",
+    "testtt.md",
+    "Hi.md",
+    "templates",
+    "Literature Notes",
+    "Fleeting Notes",
+    "Vim Key Bindings.md",
+    "attachment",
+    "Eksplorasi NLP/To Do.md",
+    "Eksplorasi NLP/Neural Machine Translation.md",
+    "Eksplorasi NLP/attention mechanism.md",
+    "Eksplorasi NLP/Etc/Toward a Standardized and More Accurate Indonesian Part-of-Speech Tagging.md",
+    "Eksplorasi NLP/Etc/Pasted image 20211012110949.png",
+    "Eksplorasi NLP/Etc/Part-of-speech Tagging.png",
+    "Eksplorasi NLP/Etc/morpho-syntactic.md",
+    "Eksplorasi NLP/Etc/Designing an Indonesian Part of speech Tagset and Manually Tagged Indonesian Corpus.md",
+    "Eksplorasi NLP/Etc/Automatic Open Domain Information Extraction from Indonesian Text.md",
+    "Eksplorasi NLP/Indonesian Pre Trained Model/IndoLEM.md",
+    "Eksplorasi NLP/Indonesian Pre Trained Model/IndoBERT.md",
+    "Eksplorasi NLP/IndoLEM and IndoBERT. A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP.md",
+    "Eksplorasi NLP/Sentence Embedding/Incorporating BERT into Neural Machine Translation.md",
+    "Eksplorasi NLP/Sentence Embedding/Convolutional Sequence to Sequence Learning.md",
+    "Eksplorasi NLP/Etc/Pasted image 20211012111101.png",
+    "Eksplorasi NLP/Etc/Table Preliminary explorations on IWSLT’14 English→German translation.png",
+    "Eksplorasi NLP/Etc/Table Document level translation.png",
+    "Eksplorasi NLP/Sentence Embedding",
+    "Eksplorasi NLP/Indonesian Pre Trained Model",
+    "Eksplorasi NLP/2021-11-11.md"
   ]
 }

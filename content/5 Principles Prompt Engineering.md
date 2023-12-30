@@ -1,5 +1,5 @@
 ---
-title: Prompt Engineering
+title: 5 Principles Prompt Engineering
 ---
 Prompt engineering has emerged as a crucial skill for getting the most out of AI tools. There are 5 core principles that can help optimize prompts to make AI models more useful, reliable, and safe.
 
