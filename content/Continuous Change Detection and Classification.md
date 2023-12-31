@@ -83,7 +83,7 @@ The model estimation starts when there are a total of 15 "clear" (determined by 
 
 Those labeled cloud, cloud shadows and snow are determined by the multitemporal analysis. CCDC algorithm only applies multitemporal detection during the time of model initialization. For observations acquired after model initialization, only [[Fmask]] algorithm is used.
 
-##### CCDC Time Series Model
+### CCDC Time Series Model
 
 Land surface change devided into 3 categories; Intra-annual change, Gradual inter-annual change, 
 
@@ -100,6 +100,20 @@ Land surface change devided into 3 categories; Intra-annual change, Gradual inte
 > ![[Screenshot 2023-12-30 at 23.47.27.png]]
 
 Therefore, the time series model has component's of seasonality, trend, and breaks that captures all 3 categories surface change. The model coefficients are estimated using [[Ordinary Least Squares]] based on the remaining clear [[Landsat]] observations. [[Ordinary Least Squares]] is used instead of [[Robust Iteratively Reweighted Least Squares]] because it's faster and more accurate when all the significance outliers have been excluded.
+
+### Continuous Change Detection
+
+- To detect forest change, a single change index with a fixed threshold is sufficient.
+- [[Root Mean Squared Error]] is computed for each spectral band. The difference between observations and model predictions for each band is normalized by three times the [[Root Mean Squared Error]]. We use three times the [[Root Mean Squared Error]] due to the fact that the spectral signals usually deviate from model prediction by more than three times.
+
+> [!info] Detect change
+> Fig. 6A shows the model prediction and three times the RMSE before change occurred. 
+> Fig. 6B shows the model prediction and three times the RMSE when change occurred. 
+> Fig. 6C shows the model prediction and three times the RMSE after change occurred.
+> ![[Screenshot 2023-12-31 at 17.09.27.png]]
+
+
+
 
 ---
 # Questions

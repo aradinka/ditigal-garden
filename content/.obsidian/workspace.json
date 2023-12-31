@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6d5e6759847d59cb",
+        "id": "d1fbc43670e6a8f6",
         "type": "tabs",
         "children": [
           {
-            "id": "3541f0e297c3bf12",
+            "id": "4e54cefdabad2f3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impact of Land Cover on Environmental Processes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4929cb7fc40a087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Landsat.md",
+                "file": "Continuous Change Detection and Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Impact of Land Cover on Environmental Processes.md",
+                "file": "Continuous Change Detection and Classification.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Impact of Land Cover on Environmental Processes.md",
+                "file": "Continuous Change Detection and Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Impact of Land Cover on Environmental Processes.md"
+                "file": "Continuous Change Detection and Classification.md"
               }
             }
           }
@@ -158,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3541f0e297c3bf12",
+  "active": "4e54cefdabad2f3c",
   "lastOpenFiles": [
+    "attachment/Screenshot 2023-12-31 at 17.09.27.png",
+    "Landsat.md",
+    "Impact of Land Cover on Environmental Processes.md",
     "Continuous Change Detection and Classification.md",
     "attachment/Screenshot 2023-12-30 at 23.47.27.png",
     "attachment/Screenshot 2023-12-30 at 23.47.21.png",
@@ -167,7 +158,6 @@
     "attachment/Screenshot 2023-12-30 at 23.40.26.png",
     "private/cv.md",
     "attachment/Screenshot 2023-12-30 at 23.35.58.png",
-    "Landsat.md",
     "Challenges on land cover change detection.md",
     "Phenology and sun angle differences in landsat data.md",
     "index.md",
@@ -179,7 +169,6 @@
     "SpectralGPT.md",
     "Natural and Anthropogenic Land Cover Change.md",
     "Interpreting Time Series with CCDC.md",
-    "Impact of Land Cover on Environmental Processes.md",
     "Google Earth Engine.md",
     "Fleeting Notes.md",
     "5 Principles Prompt Engineering.md",
