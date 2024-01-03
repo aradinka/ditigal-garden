@@ -6,59 +6,65 @@
       <description>Last 10 notes on 🪴 Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Challenges on land cover change detection</title>
-    <link>https:/quartz.jzhao.xyz/Challenges-on-land-cover-change-detection</link>
-    <guid>https:/quartz.jzhao.xyz/Challenges-on-land-cover-change-detection</guid>
-    <description>Previous research: Clouds could reduce the amount of usable data. It’s hard to find an ideal pair of Landsat images that are free of clouds, cloud shadows and snow Previous change detection algorithm over shorter time intervals has a limitations.</description>
-    <pubDate>Sat, 30 Dec 2023 15:39:44 GMT</pubDate>
+    <title>Global PALSAR-2 Forest Non-Forest</title>
+    <link>https:/quartz.jzhao.xyz/Global-PALSAR-2-Forest-Non-Forest</link>
+    <guid>https:/quartz.jzhao.xyz/Global-PALSAR-2-Forest-Non-Forest</guid>
+    <description>It was developed by the Japan Aerospace Exploration Agency (JAXA) using L-band synthetic aperture radar sensors on the Advanced Land Observing Satellite-2 (ALOS-2 PALSAR-2) and Advanced Land Observing Satellite (ALOS PALSAR).</description>
+    <pubDate>Wed, 03 Jan 2024 10:04:41 GMT</pubDate>
   </item><item>
-    <title>Phenology and sun angle differences in landsat data</title>
-    <link>https:/quartz.jzhao.xyz/Phenology-and-sun-angle-differences-in-landsat-data</link>
-    <guid>https:/quartz.jzhao.xyz/Phenology-and-sun-angle-differences-in-landsat-data</guid>
-    <description> Phenology: Refers to the study of cyclic and seasonal natural phenomena, especially in relation to climate and plant and animal life. In the context of Landsat data, phenology affects the imagery because different seasons show varying characteristics of vegetation, water bodies, and other land features.</description>
-    <pubDate>Sat, 30 Dec 2023 15:34:44 GMT</pubDate>
+    <title>Global Surface Temperature Change</title>
+    <link>https:/quartz.jzhao.xyz/Global-Surface-Temperature-Change</link>
+    <guid>https:/quartz.jzhao.xyz/Global-Surface-Temperature-Change</guid>
+    <description>It is a collaborative effort between the Global Land Analysis and Discovery (GLAD) lab at the University of Maryland, Google, the United States Geological Survey (USGS), and the National Aeronautics and Space Administration (NASA).</description>
+    <pubDate>Wed, 03 Jan 2024 09:58:30 GMT</pubDate>
   </item><item>
-    <title>Welcome</title>
-    <link>https:/quartz.jzhao.xyz/</link>
-    <guid>https:/quartz.jzhao.xyz/</guid>
-    <description>Hi, I’m Azka 👋🏼 § This is my digital garden built using Quartz. Currently reading Continuous Change Detection and Classification paper.</description>
-    <pubDate>Sat, 30 Dec 2023 15:29:11 GMT</pubDate>
+    <title>ESRI 2020 Land Cover</title>
+    <link>https:/quartz.jzhao.xyz/ESRI-2020-Land-Cover</link>
+    <guid>https:/quartz.jzhao.xyz/ESRI-2020-Land-Cover</guid>
+    <description>It was developed using Sentinel-2 imagery with a 10 m resolution and deep learning methods. The forest class is coded as 2 and defined as dense vegetation clustering of trees taller than 15 m, typically with a closed or dense canopy.</description>
+    <pubDate>Wed, 03 Jan 2024 09:55:37 GMT</pubDate>
+  </item><item>
+    <title>ESA WorldCover 2020</title>
+    <link>https:/quartz.jzhao.xyz/ESA-WorldCover-2020</link>
+    <guid>https:/quartz.jzhao.xyz/ESA-WorldCover-2020</guid>
+    <description>It is a collaborative effort between the European Space Agency (ESA) and multiple research institutions worldwide, utilizing imagery from Sentinel-1 and Sentinel-2.</description>
+    <pubDate>Wed, 03 Jan 2024 09:48:05 GMT</pubDate>
+  </item><item>
+    <title>Finer Resolution Observation and Monitoring Global LC</title>
+    <link>https:/quartz.jzhao.xyz/Finer-Resolution-Observation-and-Monitoring-Global-LC</link>
+    <guid>https:/quartz.jzhao.xyz/Finer-Resolution-Observation-and-Monitoring-Global-LC</guid>
+    <description>Global land cover product created by Gong Peng et al., from Tsinghua University, in 2017. Based on 10 m resolution Sentinel-2 imagery and was produced using a random forest classifier.</description>
+    <pubDate>Wed, 03 Jan 2024 09:47:30 GMT</pubDate>
+  </item><item>
+    <title>A Comparison of Six Forest Mapping Products in Southeast Asia</title>
+    <link>https:/quartz.jzhao.xyz/A-Comparison-of-Six-Forest-Mapping-Products-in-Southeast-Asia</link>
+    <guid>https:/quartz.jzhao.xyz/A-Comparison-of-Six-Forest-Mapping-Products-in-Southeast-Asia</guid>
+    <description>Forest Mapping Comparison.pdf Introduction § Forest mapping products utilized for monitor and assess the status and changes in forests. However, substantial disparities exist among these products due to variations in forest definitions, classification methods, and data source.</description>
+    <pubDate>Wed, 03 Jan 2024 09:04:38 GMT</pubDate>
   </item><item>
     <title>Continuous Change Detection and Classification</title>
     <link>https:/quartz.jzhao.xyz/Continuous-Change-Detection-and-Classification</link>
     <guid>https:/quartz.jzhao.xyz/Continuous-Change-Detection-and-Classification</guid>
     <description>It’s an algorithm used in remote sensing area for land cover analysis. The original methods published form paper titled “Continuous change detection and classification of land cover using all available Landsat data”, published in 11 February 2014.</description>
-    <pubDate>Sat, 30 Dec 2023 15:28:08 GMT</pubDate>
-  </item><item>
-    <title>SpectralGPT</title>
-    <link>https:/quartz.jzhao.xyz/SpectralGPT</link>
-    <guid>https:/quartz.jzhao.xyz/SpectralGPT</guid>
-    <description>Key takeaway § Universal remote sensing foundation model Trained on one million spectral remote sensing Sentinel-2 images 3 models (Million Parameters): Base (100M), large, (300M) huge (600M) 3D masking strategy, encoder for learning visual representation from spatial-spectral mixed tokens, decoder with multi-target reconstruction for preserving spectrally sequential characteristics Masked autoencoder (MAE) framework, masking rate 90% New benchmark dataset SegMunich, focuses on urban areas Pretrained: 700k data 12 spectral bands from fMoW-S2 200 epoch, 350k BigEarthNet Sentinel-2 100 epoch.</description>
-    <pubDate>Sat, 30 Dec 2023 15:10:22 GMT</pubDate>
+    <pubDate>Sun, 31 Dec 2023 10:11:50 GMT</pubDate>
   </item><item>
     <title>Impact of Land Cover on Environmental Processes</title>
     <link>https:/quartz.jzhao.xyz/Impact-of-Land-Cover-on-Environmental-Processes</link>
     <guid>https:/quartz.jzhao.xyz/Impact-of-Land-Cover-on-Environmental-Processes</guid>
     <description>Land cover influence the energy balance, carbon budget, and. hydrological cycle as many different physical characteristics change as a function of land cover, such as albedo, emissivity, roughness, photosynthetic capacity and transpiration.</description>
-    <pubDate>Sat, 30 Dec 2023 15:07:56 GMT</pubDate>
+    <pubDate>Sat, 30 Dec 2023 17:02:07 GMT</pubDate>
   </item><item>
-    <title>Natural and Anthropogenic Land Cover Change</title>
-    <link>https:/quartz.jzhao.xyz/Natural-and-Anthropogenic-Land-Cover-Change</link>
-    <guid>https:/quartz.jzhao.xyz/Natural-and-Anthropogenic-Land-Cover-Change</guid>
-    <description> Definition: Land cover change refers to the transformation of the physical and biological cover of the earth’s surface. Natural Causes: Climate Change: Alterations in temperature and precipitation patterns can transform landscapes, such as turning forests into grasslands.</description>
-    <pubDate>Sat, 30 Dec 2023 15:04:58 GMT</pubDate>
+    <title>Phenology and sun angle differences in landsat data</title>
+    <link>https:/quartz.jzhao.xyz/Phenology-and-sun-angle-differences-in-landsat-data</link>
+    <guid>https:/quartz.jzhao.xyz/Phenology-and-sun-angle-differences-in-landsat-data</guid>
+    <description> Phenology: Refers to the study of cyclic and seasonal natural phenomena, especially in relation to climate and plant and animal life. In the context of Landsat data, phenology affects the imagery because different seasons show varying characteristics of vegetation, water bodies, and other land features.</description>
+    <pubDate>Sat, 30 Dec 2023 15:42:40 GMT</pubDate>
   </item><item>
-    <title>Interpreting Time Series with CCDC</title>
-    <link>https:/quartz.jzhao.xyz/Interpreting-Time-Series-with-CCDC</link>
-    <guid>https:/quartz.jzhao.xyz/Interpreting-Time-Series-with-CCDC</guid>
-    <description>GEE ability: access decades of imagery without the previous limitation of needing to download all the data to a local disk for processing Change Detection and Classification (CCDC) is a land change monitoring algorithm designed to operate on time series of satellite data.</description>
-    <pubDate>Sat, 30 Dec 2023 13:02:23 GMT</pubDate>
-  </item><item>
-    <title>Vim Key Bindings</title>
-    <link>https:/quartz.jzhao.xyz/Vim-Key-Bindings</link>
-    <guid>https:/quartz.jzhao.xyz/Vim-Key-Bindings</guid>
-    <description>Vim is a highly customizable and efficient text editor that is popular among developers and power users. One of Vim’s standout features is its extensive set of keyboard shortcuts and commands, referred to as “key bindings.</description>
-    <pubDate>Sat, 30 Dec 2023 12:10:21 GMT</pubDate>
+    <title>Challenges on land cover change detection</title>
+    <link>https:/quartz.jzhao.xyz/Challenges-on-land-cover-change-detection</link>
+    <guid>https:/quartz.jzhao.xyz/Challenges-on-land-cover-change-detection</guid>
+    <description>Previous research: Clouds could reduce the amount of usable data. It’s hard to find an ideal pair of Landsat images that are free of clouds, cloud shadows and snow Previous change detection algorithm over shorter time intervals has a limitations.</description>
+    <pubDate>Sat, 30 Dec 2023 15:40:02 GMT</pubDate>
   </item>
     </channel>
   </rss>

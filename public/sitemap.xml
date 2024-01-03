@@ -1,15 +1,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://quartz.jzhao.xyz/A-Comparison-of-Six-Forest-Mapping-Products-in-Southeast-Asia</loc>
+    <lastmod>2024-01-03T09:04:38.363Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Challenges-on-land-cover-change-detection</loc>
+    <lastmod>2023-12-30T15:40:02.913Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Continuous-Change-Detection-and-Classification</loc>
-    <lastmod>2023-12-30T15:28:08.183Z</lastmod>
+    <lastmod>2023-12-31T10:11:50.526Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/ESA-WorldCover-2020</loc>
+    <lastmod>2024-01-03T09:48:05.765Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/ESRI-2020-Land-Cover</loc>
+    <lastmod>2024-01-03T09:55:37.097Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Finer-Resolution-Observation-and-Monitoring-Global-LC</loc>
+    <lastmod>2024-01-03T09:47:30.289Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Global-PALSAR-2-Forest-Non-Forest</loc>
+    <lastmod>2024-01-03T10:04:41.356Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Global-Surface-Temperature-Change</loc>
+    <lastmod>2024-01-03T09:58:30.884Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Impact-of-Land-Cover-on-Environmental-Processes</loc>
-    <lastmod>2023-12-30T15:07:56.196Z</lastmod>
+    <lastmod>2023-12-30T17:02:07.427Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Interpreting-Time-Series-with-CCDC</loc>
     <lastmod>2023-12-30T13:02:23.493Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Natural-and-Anthropogenic-Land-Cover-Change</loc>
     <lastmod>2023-12-30T15:04:58.033Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Phenology-and-sun-angle-differences-in-landsat-data</loc>
+    <lastmod>2023-12-30T15:42:40.907Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/SpectralGPT</loc>
     <lastmod>2023-12-30T15:10:22.387Z</lastmod>
@@ -19,10 +43,4 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
     <lastmod>2023-12-30T15:29:11.594Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Phenology-and-sun-angle-differences-in-landsat-data</loc>
-    <lastmod>2023-12-30T15:34:44.608Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Challenges-on-land-cover-change-detection</loc>
-    <lastmod>2023-12-30T15:39:44.992Z</lastmod>
   </url></urlset>

@@ -4,18 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "d1fbc43670e6a8f6",
+        "id": "a36e19679b4298e3",
         "type": "tabs",
+        "dimension": 38.76021798365122,
         "children": [
           {
-            "id": "4e54cefdabad2f3c",
+            "id": "cf256129429359fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuous Change Detection and Classification.md",
+                "file": "Root Mean Squared Error.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "378e6d065b359d07",
+        "type": "tabs",
+        "dimension": 61.23978201634878,
+        "children": [
+          {
+            "id": "ad5f07cf94ebe764",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachment/Forest Mapping Comparison.pdf"
               }
             }
           }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "f586c3ba9f6aceff",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continuous Change Detection and Classification.md",
+                "file": "Root Mean Squared Error.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Continuous Change Detection and Classification.md",
+                "file": "Root Mean Squared Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +144,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Continuous Change Detection and Classification.md"
+                "file": "Root Mean Squared Error.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,12 +166,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e54cefdabad2f3c",
+  "active": "cf256129429359fb",
   "lastOpenFiles": [
+    "Robust Iteratively Reweighted Least Squares.md",
+    "Random Forest Classifier.md",
+    "Fmask.md",
+    "A Comparison of Six Forest Mapping Products in Southeast Asia.md",
+    "Global PALSAR-2 Forest Non-Forest.md",
+    "attachment/Forest Mapping Comparison.pdf",
+    "Global PALSAR-2 Forest/Non-Forest.md",
+    "Global PALSAR-2 Forest",
+    "Global Surface Temperature Change.md",
+    "ESRI 2020 Land Cover.md",
+    "Finer Resolution Observation and Monitoring Global LC.md",
+    "ESA WorldCover 2020.md",
+    "FROM-GLC10.md",
+    "Continuous Change Detection and Classification.md",
+    "Root Mean Squared Error.md",
+    "attachment/Screenshot 2023-12-31 at 17.41.10.png",
     "attachment/Screenshot 2023-12-31 at 17.09.27.png",
     "Landsat.md",
     "Impact of Land Cover on Environmental Processes.md",
-    "Continuous Change Detection and Classification.md",
     "attachment/Screenshot 2023-12-30 at 23.47.27.png",
     "attachment/Screenshot 2023-12-30 at 23.47.21.png",
     "attachment/Screenshot 2023-12-30 at 23.47.13.png",
@@ -168,31 +203,15 @@
     "TensorFlow Developer Certification.md",
     "SpectralGPT.md",
     "Natural and Anthropogenic Land Cover Change.md",
-    "Interpreting Time Series with CCDC.md",
-    "Google Earth Engine.md",
-    "Fleeting Notes.md",
-    "5 Principles Prompt Engineering.md",
-    "templates/note templates.md",
-    "masi.md",
-    "test.md",
     "Notes",
     "literature notes",
     "permanent notes",
     "fleeting notes",
-    "testtt.md",
-    "Hi.md",
     "templates",
     "Literature Notes",
     "Fleeting Notes",
-    "attachment",
-    "Eksplorasi NLP/To Do.md",
-    "Eksplorasi NLP/Neural Machine Translation.md",
-    "Eksplorasi NLP/attention mechanism.md",
     "Eksplorasi NLP/Etc/Pasted image 20211012110949.png",
     "Eksplorasi NLP/Etc/Part-of-speech Tagging.png",
-    "Eksplorasi NLP/Etc/Pasted image 20211012111101.png",
-    "Eksplorasi NLP/Etc/Table Preliminary explorations on IWSLT’14 English→German translation.png",
-    "Eksplorasi NLP/Etc/Table Document level translation.png",
-    "Eksplorasi NLP/Sentence Embedding"
+    "Eksplorasi NLP/Etc/Pasted image 20211012111101.png"
   ]
 }
